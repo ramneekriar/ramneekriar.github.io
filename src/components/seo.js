@@ -76,6 +76,7 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
+  title: "Portfolio"
 }
 
 SEO.propTypes = {
