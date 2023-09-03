@@ -45,7 +45,7 @@ export default function Hero() {
                       alt="Hero Icon"
                     />
                   </div>
-                  <h3 className="card-title">@rkriar</h3>
+                  <h3 className="card-title">@ramneekriar</h3>
                   <h4>
                     <span
                       className="mr-1"
