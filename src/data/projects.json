@@ -1,0 +1,38 @@
+[
+  {
+    "project": "My Notion Library",
+    "language": " JavaScript",
+    "description": "📚 Amazon Alexa skill to update books and their properties in my Notion database. Leverages Notion API, Google Books API, and Alexa Skills Kit.",
+    "link": "https://github.com/ramneekriar/myNotionLibrary"
+  },
+  {
+    "project": "Spacestagram",
+    "language": " React, MUI",
+    "description": "🪐 Image-sharing from the final frontier. An Instagram clone web-app developed for the Shopify front-end developer intern challenge for summer 2022.",
+    "link": "https://github.com/ramneekriar/spacestagram"
+  },
+  {
+    "project": "Command Line Hangman",
+    "language": " Python",
+    "description": "👾 A simple command line hangman game implemented in Python using object oriented programming and Wordnik's random-word API.",
+    "link": "https://github.com/ramneekriar/hangman"
+  },
+  {
+    "project": "Snake Game",
+    "language": " Python",
+    "description": "🐍 Implemented snake game using pygame to apply object oriented programming.\n\n",
+    "link": "https://github.com/ramneekriar/snakeGame"
+  },
+  {
+    "project": "Zelda Sokoban",
+    "language": " Java",
+    "description": "👑 Created a 3 level Sokoban game using arrays, implementing dynamic character movement and a cozy pixel theme.",
+    "link": "https://github.com/ramneekriar/zeldaSokoban"
+  },
+  {
+    "project": "Personal Portfolio",
+    "language": " JavaScript",
+    "description": "💻 Developed personal portfolio website to showcase experience and skills.\n\n",
+    "link": "https://github.com/ramneekriar/personalPortfolio"
+  }
+]
