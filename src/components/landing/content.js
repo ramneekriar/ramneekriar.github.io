@@ -2,6 +2,8 @@ import React, { Component } from "react"
 import { StaticQuery, graphql } from "gatsby"
 import pccLogo from "../../images/pcclogo.jpg"
 import bmoLogo from "../../images/bmologo.png"
+import tmuLogo from "../../images/tmulogo.jpg"
+import rmitLogo from "../../images/rmitLogo.jpg"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
@@ -53,7 +55,19 @@ export default class Content extends Component {
                 <div className="card">
                   <div className="card-body">
                     <div className="card-title">
-                      <h3>Toronto Metropolitan University</h3>
+                    <h3 style={{ display: "inline-block" }}>
+                        <img
+                          style={{
+                            paddingRight: "5px",
+                            verticalAlign: "bottom",
+                            width: "5%",
+                            height: "auto"
+                          }}
+                          src={tmuLogo}
+                          alt="Toronto Metropolitan University Logo"
+                        />
+                        Toronto Metropolitan University
+                      </h3>
                       <h4>
                         <FontAwesomeIcon
                           icon={faGraduationCap}
@@ -88,7 +102,19 @@ export default class Content extends Component {
                 <div className="card">
                   <div className="card-body">
                     <div className="card-title">
-                      <h3>Royal Melbourne Institute of Technology (RMIT)</h3>
+                    <h3 style={{ display: "inline-block" }}>
+                        <img
+                          style={{
+                            paddingRight: "5px",
+                            verticalAlign: "bottom",
+                            width: "4%",
+                            height: "auto"
+                          }}
+                          src={rmitLogo}
+                          alt="Royal Melbourne Institute of Technology Logo"
+                        />
+                        Royal Melbourne Institute of Technology (RMIT)
+                      </h3>
                       <h4>
                         <FontAwesomeIcon
                           icon={faGlobe}
