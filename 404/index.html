@@ -10,7 +10,7 @@ void function() {
   var preferredTheme
   try {
     preferredTheme = localStorage.getItem('theme')
-  } catch (err) { }
+  } catch (err) { } 
 
   function setTheme(newTheme) {
     if (preferredTheme && document.body.classList.contains(preferredTheme)) {
