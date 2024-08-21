@@ -122,6 +122,13 @@ export default class Content extends Component {
                         />
                         &nbsp;Study Abroad Semester in Melbourne, Australia 🇦🇺
                       </h4>
+                      <h4>
+                        <FontAwesomeIcon
+                          icon={faCalendar}
+                          className="mr-2"
+                        />
+                        &nbsp;March 2024 - June 2024
+                      </h4>
                     </div>
 
                     <div className="card-text">
