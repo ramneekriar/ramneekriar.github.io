@@ -10,6 +10,7 @@ import {
   faTerminal,
   faGraduationCap,
   faUserGraduate,
+  faGlobe,
   faCode,
 } from "@fortawesome/free-solid-svg-icons"
 
@@ -59,21 +60,18 @@ export default class Content extends Component {
                             icon={faGraduationCap}
                             className="mr-2"
                           />
-                          Computer Science (Co-op)
+                           Computer Science (Co-op)
                         </h4>
                         <h4>
                           <FontAwesomeIcon
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          October 2024
+                           October 2024
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I am working to earn my Bachelor's Degree in Computer Science at Toronto
-                        Metropolitan University.
-                        <br />
                         Relevent coursework includes: 
                         <br />
                         <ul>
@@ -83,6 +81,32 @@ export default class Content extends Component {
                           <li>Artificial Intelligence I</li>
                           <li>Intro to Software Engineering</li>
                           <li>Intro to C and UNIX</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="card">
+                    <div className="card-body">
+                      <div className="card-title">
+                        <h3>Royal Melbourne Institute of Technology (RMIT)</h3>
+                        <h4>
+                          <FontAwesomeIcon
+                            icon={faGlobe}
+                            className="mr-2"
+                          />
+                           Study Abroad Semester in Melbourne, Australia 🇦🇺
+                        </h4>
+                      </div>
+
+                      <div className="card-text">
+                        Relevent coursework includes: 
+                        <br />
+                        <ul>
+                          <li>Professional Computing Practice</li>
+                          <li>Cloud Computing</li>
+                          <li>Practical Data Science</li>
                         </ul>
                       </div>
                     </div>
@@ -113,19 +137,21 @@ export default class Content extends Component {
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          January 2023 - August 2023
+                          January 2023 - December 2023
                         </h4>
                       </div>
 
                       <div className="card-text">
                       ◆ Spearheaded the UI development of a customer messaging service web-app using React, MUI and Restful
-                        APIs to supply and configure messages to over 17K facilities across North America.
+                        APIs to supply and configure messages to over <b>17K facilities across North America</b>
                         <br />
-                        ◆ Integrated Identity Access Management features within core application for user transition and experience.
+                        ◆ Collaborating with cross-functional teams by creating <b>70+ JIRA issues</b> to address custom organization code and prioritizing code standardization requirements
                         <br />
-                        ◆ Resolved production defects and delivering high-quality code and documentation for assigned tickets.
+                        ◆ Integrated Identity Access Management features within core application for user transition and experience
                         <br />
-                        ◆ Participated in code reviews with feedback to enhance code quality, efficiency, and maintainability.
+                        ◆ Analyzing and resolving production defects, delivering high-quality code and documentation for assigned tickets
+                        <br />
+                        ◆ Participated in code reviews with feedback to enhance code quality, efficiency, and maintainability
                       </div>
                     </div>
                   </div>
@@ -142,7 +168,7 @@ export default class Content extends Component {
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Quality Assurance Analyst Intern
+                          QA Engineer Intern
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
@@ -152,14 +178,14 @@ export default class Content extends Component {
 
                       <div className="card-text">
                         ◆ Developed a suite of test cases from scratch to perform automated visual regression testing for over 70+ web
-                        components using Python Selenium and Applitools in agile environment.
+                        components using <b>Python Selenium and Applitools</b> in agile environment.
                         <br />
                         ◆ Refactored the team code base as a result of updating to latest version of Storybook to improve efficiency of
                         components with InVision.
                         <br />
-                        ◆ Analyzed components to unify 100+ pages of documentation and code base between subsystems on InVision.
+                        ◆ Analyzed components to unify <b>100+</b> pages of documentation and code base between subsystems on InVision.
                         <br />
-                        ◆ Maintained and achieved accessibility guidelines (WCAG 2.1) whilst optimizing web components collaborating
+                        ◆ Maintained and achieved accessibility guidelines <b>(WCAG 2.1)</b> whilst optimizing web components collaborating
                         with design and development teams.
                       
                       </div>
