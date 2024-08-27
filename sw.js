@@ -25,7 +25,31 @@ workbox.core.clientsClaim();
  * requests for URLs in the manifest.
  * See https://goo.gl/S9QRab
  */
-self.__precacheManifest = [].concat(self.__precacheManifest || []);
+self.__precacheManifest = [
+  {
+    "url": "webpack-runtime-32d9035da6e3bcc8b63f.js"
+  },
+  {
+    "url": "framework-2e8bada0947dbb0f8928.js"
+  },
+  {
+    "url": "styles.9f6c3cbc90b5e76321b9.css"
+  },
+  {
+    "url": "app-e4e1a37ff02dad7b33c6.js"
+  },
+  {
+    "url": "offline-plugin-app-shell-fallback/index.html",
+    "revision": "5e52e6c6c2628c224dd4806ecb83c072"
+  },
+  {
+    "url": "polyfill-560cd23e197e394df4d0.js"
+  },
+  {
+    "url": "manifest.webmanifest",
+    "revision": "7b8d9878d09ca501eb3ebd7deecc8fe6"
+  }
+].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, new workbox.strategies.CacheFirst(), 'GET');
