@@ -180,16 +180,19 @@ export default class Content extends Component {
                     </div>
 
                     <div className="card-text">
-                      ◆ Spearheaded the UI development of a customer messaging service web-app using React, MUI, and Restful
-                      APIs to supply and configure messages to over <b>17K facilities across North America</b>
+                      ◆ Led UI development of a customer messaging solution using <b>React, Java, and RESTful APIs</b> to improve communication across <b>30,000+</b> healthcare facilities in North America
                       <br />
-                      ◆ Collaborated with cross-functional teams by creating <b>70+ JIRA issues</b> to address custom organization code and prioritizing code standardization requirements
+                      ◆ Integrated <b>Identity Access Management (IAM)</b> features, enhancing user transitions and security by resolving critical
+SSO login tracking bugs
                       <br />
-                      ◆ Integrated Identity Access Management features within core application for user transition and experience
+                      ◆ Managed cross-functional collaboration, creating and prioritizing <b>70+</b> JIRA issues to standardize code for custom
+organization-specific features
                       <br />
-                      ◆ Analyzed and resolved production defects, delivering high-quality code and documentation for assigned tickets
+                      ◆ Designed the UI for a <b>LLM chatbot</b> project using React, demonstrating innovation and technical skill in real-time
+collaboration
                       <br />
-                      ◆ Participated in code reviews with feedback to enhance code quality, efficiency, and maintainability
+                      ◆ Boosted application stability by fixing complex backend bugs, implementing database scripts, and delivering high-quality
+code and documentation
                     </div>
                   </div>
                 </div>
@@ -222,16 +225,16 @@ export default class Content extends Component {
                     </div>
 
                     <div className="card-text">
-                      ◆ Developed a suite of test cases from scratch to perform automated visual regression testing for over 70+ web
-                      components using <b>Python Selenium and Applitools</b> in an agile environment
+                      ◆ Built automated visual regression tests from scratch for over <b>70+</b> web components using <b>Python Selenium</b> and
+Applitools in an agile environmen
                       <br />
-                      ◆ Refactored the team code base as a result of updating to the latest version of Storybook to improve efficiency of
-                      components with InVision
+                      ◆ Refactored team codebase to enhance component efficiency by upgrading to the latest Storybook version, ensuring
+smooth integration with InVision
                       <br />
-                      ◆ Analyzed components to unify <b>100+</b> pages of documentation and code base between subsystems on InVision
+                      ◆ Unified <b>100+</b> pages of documentation across subsystems on InVision through comprehensive component analysis
                       <br />
-                      ◆ Maintained and achieved accessibility guidelines <b>(WCAG 2.1)</b> whilst optimizing web components collaborating
-                      with design and development teams
+                      ◆ Ensured <b>WCAG 2.1</b> compliance by optimizing web components, collaborating closely with design and development teams
+to meet accessibility standards
                     </div>
                   </div>
                 </div>
