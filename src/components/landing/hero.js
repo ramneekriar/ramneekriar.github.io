@@ -20,7 +20,7 @@ export default function Hero() {
               </h1>
               <h1>Hi, I'm Ramneek Riar</h1>
               <p>
-                I'm a recent graduate from Toronto Metropolitan University seeking 2025 New Grad SWE opportunities.
+                I'm in my final year of computer science at Toronto Metropolitan University.
               </p>
               <Link
                 to="content"
@@ -47,7 +47,7 @@ export default function Hero() {
                   </div>
                   <h3 className="card-title">@ramneekriar</h3>
                   <h4>
-                    <span
+                    {/* <span
                       className="mr-1"
                       role="img"
                       aria-label="pin"
@@ -56,10 +56,10 @@ export default function Hero() {
                       📍
                     </span>
                     Toronto
-                    <br />
+                    <br /> */}
                   </h4>
                   <p className="card-text">
-                    Seeking 2025 New Grad SWE Roles
+                    Seeking New Grad SWE Roles
                   </p>
                   <Links />
                 </div>
