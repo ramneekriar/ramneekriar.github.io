@@ -180,9 +180,9 @@ export default class Content extends Component {
                     </div>
 
                     <div className="card-text">
-                      ◆ Led UI development of a customer messaging solution using <b>React, Java, and RESTful APIs</b> to improve communication across <b>30,000+</b> healthcare facilities in North America
+                      ◆ Led UI development of a customer messaging solution using <b>React and RESTful APIs</b> to improve communication across <b>30,000+</b> healthcare facilities in North America
                       <br />
-                      ◆ Integrated <b>Identity Access Management (IAM)</b> features, including ,<b>multi-factor authentication (MFA)</b> and feature
+                      ◆ Integrated <b>Identity Access Management (IAM)</b> features, including <b>multi-factor authentication (MFA)</b> and feature
                       flags, to resolve critical SSO login tracking bugs and enhance security across organizations
                       <br />
                       ◆ Streamlined user authentication process by resolving IAM sync issues and improving password expiry workflows
