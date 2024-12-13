@@ -182,17 +182,19 @@ export default class Content extends Component {
                     <div className="card-text">
                       ◆ Led UI development of a customer messaging solution using <b>React, Java, and RESTful APIs</b> to improve communication across <b>30,000+</b> healthcare facilities in North America
                       <br />
-                      ◆ Integrated <b>Identity Access Management (IAM)</b> features, enhancing user transitions and security by resolving critical
-SSO login tracking bugs
+                      ◆ Integrated <b>Identity Access Management (IAM)</b> features, including ,<b>multi-factor authentication (MFA)</b> and feature
+                      flags, to resolve critical SSO login tracking bugs and enhance security across organizations
                       <br />
-                      ◆ Managed cross-functional collaboration, creating and prioritizing <b>70+</b> JIRA issues to standardize code for custom
-organization-specific features
+                      ◆ Streamlined user authentication process by resolving IAM sync issues and improving password expiry workflows
                       <br />
-                      ◆ Designed the UI for a <b>LLM chatbot</b> project using React, demonstrating innovation and technical skill in real-time
-collaboration
+                      ◆ Created <b>DDL</b> scripts to audit important announcements sent to healthcare facilities within organization
                       <br />
-                      ◆ Boosted application stability by fixing complex backend bugs, implementing database scripts, and delivering high-quality
-code and documentation
+                      ◆ Managed cross-functional collaboration, auditing codebase and creating 70+ JIRA issues to standardize code for custom
+                      organization-specific features
+                      <br />
+                      ◆ Resolved production defects reported by customers, improving system reliability and reducing downtime for facilities
+                      <br />
+                      ◆ Engineered the UI for an <b>LLM chatbot</b> hackathon project using React, completing it within one week
                     </div>
                   </div>
                 </div>
@@ -228,8 +230,8 @@ code and documentation
                       ◆ Built automated visual regression tests from scratch for over <b>70+</b> web components using <b>Python Selenium</b> and
 Applitools in an agile environmen
                       <br />
-                      ◆ Refactored team codebase to enhance component efficiency by upgrading to the latest Storybook version, ensuring
-smooth integration with InVision
+                      ◆ Achieved reduction in development time by refactoring team codebase, resulting in improved component efficiency and
+                      smoother integration with design collaboration platform
                       <br />
                       ◆ Unified <b>100+</b> pages of documentation across subsystems on InVision through comprehensive component analysis
                       <br />
