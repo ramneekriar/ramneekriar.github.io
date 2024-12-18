@@ -228,7 +228,7 @@ export default class Content extends Component {
 
                     <div className="card-text">
                       ◆ Built automated visual regression tests from scratch for over <b>70+</b> web components using <b>Python Selenium</b> and
-Applitools in an agile environmen
+Applitools in an agile environment
                       <br />
                       ◆ Achieved reduction in development time by refactoring team codebase, resulting in improved component efficiency and
                       smoother integration with design collaboration platform
