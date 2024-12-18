@@ -218,7 +218,7 @@ export default class Content extends Component {
                           icon={faBriefcase}
                           className="mr-2"
                         />{" "}
-                        QA Engineer Intern
+                        Software Developer Intern
                       </h4>
                       <h4>
                         <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}

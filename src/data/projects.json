@@ -12,6 +12,24 @@
     "link": "https://github.com/ramneekriar/spacestagram"
   },
   {
+    "project": "KNN Based Collaborative Filtering",
+    "language": " Python, Jupyter Notebook",
+    "description": "📊 Improved user-user KNN-based Collaborative Filtering using Adjusted Euclidean Distance to enhance recommendation accuracy.",
+    "link": "https://github.com/ramneekriar/Collaborative-Filtering-with-Adjusted-Euclidean-Distance"
+  },
+  {
+    "project": "Classifying Attractions in South India Based on Tourist Interest",
+    "language": " Python, Jupyter Notebook",
+    "description": "⚽️ Explored and classified tourist interest in sports-based activities in South India using data from interest in recreational activities.",
+    "link": "https://github.com/ramneekriar/Exploring-Points-of-Interest-in-South-India"
+  },
+  {
+    "project": "Analyzing Daily Rainfall Climate Data",
+    "language": " Python, Jupyter Notebook",
+    "description": "📊 Pre-processed and analyzed daily rainfall climate data provided by the Australian Government - Bureau of Meteorology.",
+    "link": "https://github.com/ramneekriar/Analyzing-Daily-Rainfall-Data"
+  },
+  {
     "project": "Command Line Hangman",
     "language": " Python",
     "description": "👾 A simple command line hangman game implemented in Python using object oriented programming and Wordnik's random-word API.",
